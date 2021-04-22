@@ -1,1 +1,2 @@
-Garage app using react-redux .
+Garage for listing cars with details  //
+created using react-redux .
